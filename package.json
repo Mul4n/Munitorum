@@ -1,0 +1,14 @@
+{
+  "name": "munitorum",
+  "version": "1.0.0",
+  "description": "For easier diff on warhammer 40k point changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf2json": "^2.0.1"
+  }
+}
